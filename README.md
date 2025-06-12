@@ -2,5 +2,9 @@ This is not my project, it was Bob Parker's Free Ring Tester available here: htt
 
 The website is not available anymore so I am sharing his FREE project here. 
 
+![image](https://github.com/user-attachments/assets/71e758af-dc57-4628-8ec0-333270e8c0ce)
 
-<img width="452" alt="image" src="https://github.com/user-attachments/assets/3a8bdfac-bd80-4e85-ab9c-406c728e73a6" />
+
+Bob's original document is below:
+
+[basic_ring_tester_manual.pdf](https://github.com/user-attachments/files/20708708/basic_ring_tester_manual.pdf)
