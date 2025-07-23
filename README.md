@@ -1,4 +1,4 @@
-This is not my project, it was Bob Parker's Free Ring Tester available here: https://www.bobparker.net.au/Basic%20Digital%20Ringer/index.html
+This is not my project, it was Bob Parker's Free Ring Tester available here: https://zilogbob.com/Basic%20Digital%20Ringer/index.html
 
 The website is not available anymore so I am sharing his FREE project here. 
 
